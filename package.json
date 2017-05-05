@@ -8,7 +8,7 @@
 		"pug": "^2.0.0-beta11"
 	},
 	"scripts": {
-		"start": "node keystone.js",
+		"start": "node keystone.js"
 	},
 	"author": "Ben Conolly",
 	"license": "MIT"
